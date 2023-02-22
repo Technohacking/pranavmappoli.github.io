@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f5ca4973.css",
+    "main.js": "/static/js/main.a5102aab.js",
+    "static/media/PranavResume.pdf": "/static/media/PranavResume.0737a54a6b2381fa9cb0.pdf",
+    "static/media/houseMarket.webp": "/static/media/houseMarket.67ccfd8f677042b4067b.webp",
+    "static/media/pranav.webp": "/static/media/pranav.c7b1cb1de3e60765f42e.webp",
+    "static/media/ominiFood.webp": "/static/media/ominiFood.e629c5790a02b8c516bf.webp",
+    "static/media/forkify.webp": "/static/media/forkify.fcd1eaa04aa54283d3dc.webp",
+    "static/media/bankist.webp": "/static/media/bankist.5ee7555b409a78cf97b4.webp",
+    "static/media/achie.webp": "/static/media/achie.e64078aad70bc810752d.webp",
+    "static/media/publication.webp": "/static/media/publication.a61767db3997ecc6afc8.webp",
+    "static/media/tcsE.webp": "/static/media/tcsE.4140e17f921178f1b5f9.webp",
+    "static/media/outdoor.webp": "/static/media/outdoor.9a30ed42b0f5c06e0a32.webp",
+    "static/media/6.webp": "/static/media/6.4c56d62f45d35c17b5a5.webp",
+    "static/media/1.webp": "/static/media/1.d849f905c7974fd6920e.webp",
+    "static/media/supportDesk.webp": "/static/media/supportDesk.2724c80bb889bd2bd310.webp",
+    "static/media/5.webp": "/static/media/5.61021bd4c36952f232d1.webp",
+    "static/media/hackathon2.webp": "/static/media/hackathon2.db25f460027057b4b9ac.webp",
+    "static/media/7.webp": "/static/media/7.cfc090e7a54f3e7f2c5b.webp",
+    "static/media/gate.webp": "/static/media/gate.d06caa448c34e2807af1.webp",
+    "static/media/8.webp": "/static/media/8.2e73e2311d5677b0e120.webp",
+    "static/media/3.webp": "/static/media/3.ed2aaedf0db649486c64.webp",
+    "static/media/storyPic.webp": "/static/media/storyPic.4927a9a0f00b6bb3e93d.webp",
+    "static/media/walmart.webp": "/static/media/walmart.ce4e44262dcc79cf9261.webp",
+    "static/media/4.webp": "/static/media/4.9292073c04b7758ca95a.webp",
+    "static/media/spotaward.webp": "/static/media/spotaward.1030e0ab1b559dd4997b.webp",
+    "static/media/2.webp": "/static/media/2.1c3480e9f7b867ec4345.webp",
+    "static/media/walmartE.webp": "/static/media/walmartE.8276342af8c8e8003ba3.webp",
+    "static/media/tcs.webp": "/static/media/tcs.42193678fa7bff15af96.webp",
+    "index.html": "/index.html",
+    "static/media/index.cjs": "/static/media/index.cd351d7c31d0d3fccf96.cjs",
+    "main.f5ca4973.css.map": "/static/css/main.f5ca4973.css.map",
+    "main.a5102aab.js.map": "/static/js/main.a5102aab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5ca4973.css",
+    "static/js/main.a5102aab.js"
+  ]
+}
