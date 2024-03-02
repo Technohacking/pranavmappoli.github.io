@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.2f301c4d.css",
-    "main.js": "/static/js/main.e1b4530c.js",
-    "static/media/PranavResume.pdf": "/static/media/PranavResume.0737a54a6b2381fa9cb0.pdf",
+    "main.css": "/static/css/main.80e3b1c2.css",
+    "main.js": "/static/js/main.a16e8160.js",
+    "static/media/PranavResume.pdf": "/static/media/PranavResume.855033824ca909d3d991.pdf",
     "static/media/houseMarket.webp": "/static/media/houseMarket.67ccfd8f677042b4067b.webp",
     "static/media/pranav.webp": "/static/media/pranav.c7b1cb1de3e60765f42e.webp",
     "static/media/ominiFood.webp": "/static/media/ominiFood.e629c5790a02b8c516bf.webp",
@@ -34,11 +34,11 @@
     "static/media/tcs.webp": "/static/media/tcs.42193678fa7bff15af96.webp",
     "index.html": "/index.html",
     "static/media/index.cjs": "/static/media/index.cd351d7c31d0d3fccf96.cjs",
-    "main.2f301c4d.css.map": "/static/css/main.2f301c4d.css.map",
-    "main.e1b4530c.js.map": "/static/js/main.e1b4530c.js.map"
+    "main.80e3b1c2.css.map": "/static/css/main.80e3b1c2.css.map",
+    "main.a16e8160.js.map": "/static/js/main.a16e8160.js.map"
   },
   "entrypoints": [
-    "static/css/main.2f301c4d.css",
-    "static/js/main.e1b4530c.js"
+    "static/css/main.80e3b1c2.css",
+    "static/js/main.a16e8160.js"
   ]
 }
